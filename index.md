@@ -1,37 +1,40 @@
-**Ronghan Wang**
+## Welcome to GitHub Pages
 
-99 Bernfield Bay, Winnipeg
+You can use the [editor on GitHub](https://github.com/LFamer/wangr317.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Email: wangr317@outlook.com
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Phone: 204-951-7311
+### Markdown
 
-**Career Objective** : As a fourth year Computer Science major student of University of Manitoba, passion and be eager for new knowledge are prerequisite. Capable of working under high pressure and strength environment, contribute my passions and idea to the work.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LFamer/wangr317.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
 
 
-## **SUMMARY OF SKILLS**
-
-### **TECHNICAL SKILLS**
-
-- High Skill of using Java
-- Program with C, C++, Ruby, Android Studio and LC3
-- Strongly skill of using Word, Excel, Power Point and Photo Shop
-- Class 5I driver&#39;s License
-
-### **Personality Traits**
-
-- Tough and passionate
-- Positive and optimistic
-- Desire of knowledge and chances
-- Friendly and self-discipline
-
-### **INTERPERSONAL SKILLS**
-
-- Independent, but also glad make friends with everyone
-- Happy to share ideas and work with other people
-- Finish task before dead line whatever working with other people or working with myself. During working, providing constructive advice and studying with an open mind.
-- Mandarin as the first language
-- English communication
 
 ## **Education**
 
