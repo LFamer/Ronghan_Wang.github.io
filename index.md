@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+**Ronghan Wang**
 
-You can use the [editor on GitHub](https://github.com/LFamer/Ronghan_Wang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+99 Bernfield Bay, Winnipeg
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: wangr317@outlook.com
 
-### Markdown
+Phone: 204-951-7311
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Career Objective** : As a fourth year Computer Science major student of University of Manitoba, passion and be eager for new knowledge are prerequisite. Capable of working under high pressure and strength environment, contribute my passions and idea to the work.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## **SUMMARY OF SKILLS**
 
-- Bulleted
-- List
+### **TECHNICAL SKILLS**
 
-1. Numbered
-2. List
+- High Skill of using Java
+- Program with C, C++, Ruby, Android Studio and LC3
+- Strongly skill of using Word, Excel, Power Point and Photo Shop
+- Class 5I driver&#39;s License
 
-**Bold** and _Italic_ and `Code` text
+### **Personality Traits**
 
-[Link](url) and ![Image](src)
-```
+- Tough and passionate
+- Positive and optimistic
+- Desire of knowledge and chances
+- Friendly and self-discipline
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### **INTERPERSONAL SKILLS**
 
-### Jekyll Themes
+- Independent, but also glad make friends with everyone
+- Happy to share ideas and work with other people
+- Finish task before dead line whatever working with other people or working with myself. During working, providing constructive advice and studying with an open mind.
+- Mandarin as the first language
+- English communication
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LFamer/Ronghan_Wang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## **Education**
 
-### Support or Contact
+**University of Manitoba – Winnipeg, MB, Canada**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Bachelor of Science**
+- **Major – Computer Science**
